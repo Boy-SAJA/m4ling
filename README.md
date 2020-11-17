@@ -4,7 +4,7 @@ pkg install python2
 
 pkg install git
 
-git clone https://github.com/SAYABOY/m4ling
+git clone https://github.com/Boy-SAJA/m4ling
 
 ls
 
