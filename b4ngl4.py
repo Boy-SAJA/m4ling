@@ -1,6 +1,9 @@
 #!/usr/bin/python2
 # coding=utf-8
 
+######KALAU MAU DK RECOD SILAHKAN AJG, TAPI JANGAN DI PERJUAL KAN YA BABI####,
+####ENGKAU PIKIR MUDAJ KAH NGODING KONTOL#####
+
 #Import module
 import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib
 from multiprocessing.pool import ThreadPool
