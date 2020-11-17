@@ -10,4 +10,4 @@ ls
 
 cd m4ling
 
-python2 Bangla.py
+python2 bangla.py
